@@ -5,14 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Data Structures & Algorithms 
+- 🌱 I’m currently learning python & AI
+- 👯 I’m looking to collaborate on AI & Machine Learning
+- 💬 Ask me about Softwares
+- 📫 How to reach me: 0716797094
+- ⚡ Fun fact: am a scorpio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/Kollen Wekesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kollen Wekesa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/Kollen Wekesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kollen Wekesa" height="30" width="40" /></a>
 <a href="https://kaggle.com/Kollen Wekesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kollen Wekesa" height="30" width="40" /></a>
-<a href="https://medium.com/@leslie.asava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@leslie.asava" height="30" width="40" /></a>
+<a href="https://medium.com/@kollenwekesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kollenwekesa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Kollen Wekesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kollen Wekesa" height="30" width="40" /></a>
 </p>
 
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leslie-asava&show_icons=true&locale=en&layout=compact" alt="leslie-asava" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leslie-asava&show_icons=true&locale=en" alt="leslie-asava" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kollenwekesa&show_icons=true&locale=en" alt="kollenwekesa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leslie-asava&" alt="leslie-asava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kollenwekesa&" alt="kollenwekesa" /></p>
 
