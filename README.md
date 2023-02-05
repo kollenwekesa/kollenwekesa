@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python & AI
 - 👯 I’m looking to collaborate on AI & Machine Learning
 - 💬 Ask me about Softwares
-- 📫 How to reach me: 0716797094
-- ⚡ Fun fact: am a scorpio
+- ⚡ Fun fact: Singularity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
